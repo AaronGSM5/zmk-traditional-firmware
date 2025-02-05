@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: quefrency_left
+    shield: flexyboard_left
   - board: nice_nano_v2
-    shield: quefrency_right
+    shield: flexyboard_right
