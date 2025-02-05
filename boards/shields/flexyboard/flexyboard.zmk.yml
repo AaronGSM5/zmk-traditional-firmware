@@ -1,0 +1,12 @@
+file_format: "1"
+id: flexyboard
+name: Flexyboard
+type: shield
+url: https://github.com/AaronGSM5/zmk-traditional-firmware
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
+siblings:
+  - flexyboard_left
+  - flexyboard_right
